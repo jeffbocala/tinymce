@@ -48,7 +48,7 @@ const onFileInput = function (editor) {
   };
 };
 
-const acceptExts = '.jpg,.jpeg,.png,.gif';
+const acceptExts = '.jpg,.jpeg,.jfif,.png,.gif';
 
 const makeTab = function (editor) {
   return {
