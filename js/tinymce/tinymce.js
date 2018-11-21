@@ -1,4 +1,4 @@
-// 4.8.5 (2018-10-30)
+// 4.8.6 (2018-11-21)
 (function () {
 (function () {
     'use strict';
@@ -25389,8 +25389,8 @@
       defaultSettings: {},
       $: DomQuery,
       majorVersion: '4',
-      minorVersion: '8.5',
-      releaseDate: '2018-10-30',
+      minorVersion: '8.6',
+      releaseDate: '2018-11-21',
       editors: legacyEditors,
       i18n: I18n,
       activeEditor: null,

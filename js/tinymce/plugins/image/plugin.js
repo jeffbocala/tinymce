@@ -1017,7 +1017,7 @@ var image = (function () {
         });
       };
     };
-    var acceptExts = '.jpg,.jpeg,.jfif,.tiff,.png,.gif';
+    var acceptExts = '.jpg,.jpeg,.jfif,.png,.gif';
     var makeTab$2 = function (editor) {
       return {
         title: 'Upload',

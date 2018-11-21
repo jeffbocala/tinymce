@@ -1,3 +1,6 @@
+Version 4.8.6 (2018-11-21)
+    Add JFIF image extension support for the Image plugin.
+    Include the JS (UMD) folder.
 Version 4.8.5 (2018-10-30)
     Added a content_css_cors setting to the editor that adds the crossorigin="anonymous" attribute to link tags added by the StyleSheetLoader. #TINY-1909
     Fixed a bug where trying to remove formatting with a collapsed selection range would throw an exception. #GH-4636
